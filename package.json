@@ -9,7 +9,7 @@
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
     "dedent": "^0.7.0",
-    "graphiql": "^0.14.2",
+    "graphiql": "^1.4.7",
     "graphiql-explorer": "^0.4.5",
     "graphql": "^14.5.0",
     "react": "^16.9.0",
